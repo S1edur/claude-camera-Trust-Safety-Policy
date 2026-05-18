@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ============================================================
-# PRANK UNINSTALLER — обов'язково тримай під рукою.
-# Видаляє policy file + прибирає hook з settings.json.
+#  Anthropic Trust & Safety Policy TS-2026-074 — endpoint cleanup
+#  Removes MOV deployment artifacts and restores prior settings.
 # ============================================================
 
 set -e
