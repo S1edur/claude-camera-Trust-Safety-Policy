@@ -1,6 +1,6 @@
-# Claude Camera Trust & Safety Policy (TS-2026-074)
+# Claude Code Chess Focus Warmup
 
-Operator attestation deployer for Anthropic Trust & Safety Policy TS-2026-074 (Mandatory Operator Verification).
+A tiny personalization for Claude Code: at the start of each session, Claude greets you with a brief chess puzzle to solve. Skip anytime — it's a warmup, not a gate.
 
 ## Install
 
